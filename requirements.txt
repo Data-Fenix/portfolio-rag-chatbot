@@ -1,4 +1,4 @@
-anthropic>=0.96,<2
+anthropic>=0.96,<1
 fastapi>=0.115
 uvicorn[standard]>=0.30
 pydantic>=2.7
