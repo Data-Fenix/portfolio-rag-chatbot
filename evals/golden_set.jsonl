@@ -1,0 +1,16 @@
+{"id": "q01", "question": "What did Lahiru do at Dialog Axiata?", "expected_sources": ["experience", "faq"], "expected_facts": ["MLOps", "AWS"]}
+{"id": "q02", "question": "Which cloud cost savings did he achieve as a consultant?", "expected_sources": ["experience"], "expected_facts": ["44%", "30%"]}
+{"id": "q03", "question": "What is his current role?", "expected_sources": ["experience", "profile", "faq"], "expected_facts": ["Data Platform Engineer", "Memodo"]}
+{"id": "q04", "question": "Tell me about the smart car parking project and its accuracy.", "expected_sources": ["projects-ml"], "expected_facts": ["0.916", "1.04"]}
+{"id": "q05", "question": "How does the price tracker match products across shops?", "expected_sources": ["projects-ml"], "expected_facts": ["Sentence-Transformers", "RapidFuzz"]}
+{"id": "q06", "question": "What is the deep reinforcement learning research about?", "expected_sources": ["research", "faq"], "expected_facts": ["travelling salesman", "Beijing"]}
+{"id": "q07", "question": "How is the customer churn pipeline built on SageMaker?", "expected_sources": ["projects-mlops"], "expected_facts": ["XGBoost", "Flask"]}
+{"id": "q08", "question": "How does the portfolio chatbot avoid hallucinations?", "expected_sources": ["projects-genai"], "expected_facts": ["cit", "retriev"]}
+{"id": "q09", "question": "What makes the ticket triage pipeline reliable?", "expected_sources": ["projects-genai"], "expected_facts": ["structured output", "eval"]}
+{"id": "q10", "question": "Which university degrees does Lahiru hold?", "expected_sources": ["profile", "faq"], "expected_facts": ["Hildesheim", "Colombo"]}
+{"id": "q11", "question": "Does he have any AWS certifications?", "expected_sources": ["profile"], "expected_facts": ["Machine Learning Engineer"]}
+{"id": "q12", "question": "What did he build with Microsoft Fabric?", "expected_sources": ["experience", "faq"], "expected_facts": ["Fabric", "Power BI"]}
+{"id": "q13", "question": "How can I contact Lahiru?", "expected_sources": ["profile"], "expected_facts": ["LinkedIn"]}
+{"id": "q14", "question": "Which projects use computer vision?", "expected_sources": ["projects-ml"], "expected_facts": ["Potato"]}
+{"id": "q15", "question": "What was the feature store work about?", "expected_sources": ["experience"], "expected_facts": ["feature store"]}
+{"id": "q16", "question": "What are the GenAI best practices he follows?", "expected_sources": ["projects-genai"], "expected_facts": ["cache", "eval"]}

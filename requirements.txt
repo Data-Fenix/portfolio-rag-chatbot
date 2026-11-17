@@ -1,0 +1,12 @@
+anthropic>=0.96,<2
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.7
+python-dotenv>=1.0
+
+# Optional dense retrieval (RETRIEVER_BACKEND=chroma|hybrid)
+# chromadb>=1.0
+
+# Development
+pytest>=8.0
+ruff>=0.6
